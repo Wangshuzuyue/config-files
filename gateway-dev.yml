@@ -32,3 +32,6 @@ management:
 api-app:
   ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
+#自定义配置
+my:
+ name: hzwwww
