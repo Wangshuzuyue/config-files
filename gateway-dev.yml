@@ -34,4 +34,4 @@ api-app:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
 #自定义配置
 my:
- name: hzwwww
+ name: hhhhhh
