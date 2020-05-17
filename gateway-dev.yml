@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: gateway-zuul
+    name: gateway-zuul-1
 
 #注册中心
 eureka:
